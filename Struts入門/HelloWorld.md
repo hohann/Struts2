@@ -4,5 +4,5 @@
 
 1.JDK
 
-首先安裝並配置JDK,至官網下載：   
+首先安裝並配置JDK,至官網下載（本範例是採用JDK 8）：   
 https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
