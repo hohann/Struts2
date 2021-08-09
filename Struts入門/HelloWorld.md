@@ -50,5 +50,5 @@ Web 服務器包括Tomcat,Resin,WebSphere,JRun,WebLogic等，本範例採用的�
 
 前面四項都下載完成後，接下來就開始對Eclipse 進行一些必要的配置。
 
-5.配置Eclipse
+5.Tomcat在Eclipse中的配置
 
