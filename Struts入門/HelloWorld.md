@@ -30,5 +30,6 @@ Web 服務器包括Tomcat,Resin,WebSphere,JRun,WebLogic等，本範例採用的�
 ![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/004.png)
 
 3.Struts 2 的下載與安裝
+
 至官網下載：https://struts.apache.org/download.cgi（本範例採用 Struts 2.5.26版本），如下圖所示：
 
