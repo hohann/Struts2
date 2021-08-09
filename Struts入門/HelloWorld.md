@@ -20,6 +20,7 @@ Web 服務器包括Tomcat,Resin,WebSphere,JRun,WebLogic等，本範例採用的�
 ![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/003.png)
 
 測試Tomcat
+
 執行Tomcat根目錄中bin文件夾中的startup.bat來啟動Tomcat服務器，測試步驟如下：（以我的為例,檔案放在  /Users/weather/Library  路徑低下）
 1.  打開terminal 輸入 cd /Users/weather/Library/Tomcat/bin/    (根據自己的路徑改，cd到Tomcat的bin檔案)
 2.  chmod u+x *.sh
