@@ -25,5 +25,6 @@ Web 服務器包括Tomcat,Resin,WebSphere,JRun,WebLogic等，本範例採用的�
 1.  打開terminal 輸入 cd /Users/weather/Library/Tomcat/bin/    (根據自己的路徑改，cd到Tomcat的bin檔案)
 2.  chmod u+x *.sh
 3.   ./startup.sh
-4. 在網址輸入   http://localhost:8080/   （有一隻貓出現就算成功了）
+4. 在網址輸入   http://localhost:8080/   （有一隻貓出現就算成功了,如下圖所示）
 5. ./shutdown.sh           //關閉tomcat
+![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/004.png)
