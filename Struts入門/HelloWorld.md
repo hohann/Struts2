@@ -28,3 +28,6 @@ Web 服務器包括Tomcat,Resin,WebSphere,JRun,WebLogic等，本範例採用的�
 4. 在網址輸入   http://localhost:8080/   （有一隻貓出現就算成功了,如下圖所示）
 5. ./shutdown.sh           //關閉tomcat
 ![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/004.png)
+
+3.Struts 2 的下載與安裝
+
