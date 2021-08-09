@@ -41,6 +41,9 @@ Web 服務器包括Tomcat,Resin,WebSphere,JRun,WebLogic等，本範例採用的�
 (2)docs:包含Struts2 的快速入門，Struts 2 的文檔，以及API文件等內容。
 
 4.使用 Eclipse開發Struts 2 的Web 應用
-到Eclipse官網下載Eclipse https://www.eclipse.org/downloads/
+
+到Eclipse官網下載Eclipse https://www.eclipse.org/downloads/ ，如下圖所示：
+![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/007.png)
+![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/008.png)
 
 
