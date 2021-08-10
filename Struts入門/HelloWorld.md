@@ -93,3 +93,5 @@ Web 服務器包括Tomcat,Resin,WebSphere,JRun,WebLogic等，本範例採用的�
 (4)最後將其Apply 就可在HelloWorld顯目中 看到src資料夾，如此就完成設定了，如下圖所示。
 ![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/024.png)
 ![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/025.png)
+
+# 查看Tomcat能否運作
