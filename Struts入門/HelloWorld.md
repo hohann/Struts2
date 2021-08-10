@@ -81,12 +81,15 @@ Web 服務器包括Tomcat,Resin,WebSphere,JRun,WebLogic等，本範例採用的�
 ## 7.Java Build path 設定
 (1)在HelloWorld項目點擊右鍵，接著再單擊Properties，如下圖所示。
 ![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/019.png)
+
 (2)在Java Build Path 處選擇 Source ,並點擊Add Folder 以新建文件夾，如下圖所示。
 ![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/020.png)
+
 (3)在Source Folder Selection中選擇src資料夾，若沒有src資料夾，就點擊Create New Folder 創建一個，如下圖所示。
 ![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/021.png)
 ![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/022.png)
 ![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/023.png)
+
 (4)最後將其Apply 就可在HelloWorld顯目中 看到src資料夾，如此就完成設定了，如下圖所示。
 ![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/024.png)
 ![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/025.png)
