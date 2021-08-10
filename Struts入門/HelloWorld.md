@@ -68,3 +68,11 @@ Web 服務器包括Tomcat,Resin,WebSphere,JRun,WebLogic等，本範例採用的�
 (1)選擇菜單中的File > New > Project 命令,接著在new Project對話框中選擇Web節點下的Dynamic Web Project 子節點，如下圖所示。
 ![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/013.png)
 ![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/014.png)
+(2)點擊Next按鈕,打開 New Dynamic Web Project 窗口,在Project name 輸入項目名稱,這裡為 HelloWorld。選擇Target runtime 區域中的服務器,如下圖所示。
+![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/015.png)
+(3)修改 java build path的路徑, 將其預設的路徑 Remove 掉，如下圖所示。
+![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/016.png)
+(4)將Content directory 改為 WebContent ，並選中Generate web.xml deployment descriptor ,如下圖所示。
+![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/017.png)
+(5)點擊Finish按鈕，完成項目HelloWorld的創建,在Eclipse左側將顯示該項目,如下圖所示。
+![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/018.png)
