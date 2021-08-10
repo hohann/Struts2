@@ -64,3 +64,7 @@ Web 服務器包括Tomcat,Resin,WebSphere,JRun,WebLogic等，本範例採用的�
 單擊Browse按鈕，選擇Tomcat所在的目錄位置，點擊Finish按鈕即可完成Tomcat配置。
 
 ## 6.創建 Web 應用
+
+(1)選擇菜單中的File > New > Project 命令,接著在new Project對話框中選擇Web節點下的Dynamic Web Project 子節點，如下圖所示。
+![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/013.png)
+![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/014.png)
