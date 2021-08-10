@@ -36,6 +36,7 @@ Web 服務器包括Tomcat,Resin,WebSphere,JRun,WebLogic等，本範例採用的�
 將下載到的zip文件解壓縮，解壓縮後的目錄結構如下圖：
 ![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/006.png)
 (1)apps:包基於Struts2的示例應用。
+
 (2)docs:包含Struts2 的快速入門，Struts 2 的文檔，以及API文件等內容。
 
 ## 4.使用 Eclipse開發Struts 2 的Web 應用
