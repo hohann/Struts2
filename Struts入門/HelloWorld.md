@@ -2,7 +2,7 @@
 
 ## 安裝Struts 2 之前，需要事先安裝JDK和Web服務器
 
-1.JDK
+###### 1.JDK
 
 首先安裝並配置JDK,至官網下載（本範例是採用JDK 8 +MAC ）：   
 https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
@@ -10,7 +10,7 @@ https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
 
 
 
-2.Web 服務器
+###### 2.Web 服務器
 
 Web 服務器包括Tomcat,Resin,WebSphere,JRun,WebLogic等，本範例採用的是Tomcat 8。
 登入Apache 軟體基金會的官網 https://tomcat.apache.org/download-80.cgi ，下載Tomcat 8，在Binary Distributions 的Core中選擇zip即可。
@@ -29,7 +29,7 @@ Web 服務器包括Tomcat,Resin,WebSphere,JRun,WebLogic等，本範例採用的�
 5. ./shutdown.sh           //關閉tomcat
 ![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/004.png)
 
-3.Struts 2 的下載與安裝
+###### 3.Struts 2 的下載與安裝
 
 至官網下載：https://struts.apache.org/download.cgi （本範例採用 Struts 2.5.26版本），如下圖所示：
 
@@ -40,7 +40,7 @@ Web 服務器包括Tomcat,Resin,WebSphere,JRun,WebLogic等，本範例採用的�
 (1)apps:包基於Struts2的示例應用。
 (2)docs:包含Struts2 的快速入門，Struts 2 的文檔，以及API文件等內容。
 
-4.使用 Eclipse開發Struts 2 的Web 應用
+###### 4.使用 Eclipse開發Struts 2 的Web 應用
 
 到Eclipse官網下載Eclipse https://www.eclipse.org/downloads/ ，如下圖所示：
 ![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/007.png)
@@ -50,7 +50,7 @@ Web 服務器包括Tomcat,Resin,WebSphere,JRun,WebLogic等，本範例採用的�
 
 前面四項都下載完成後，接下來就開始對Eclipse 進行一些必要的配置。
 
-5.Tomcat在Eclipse中的配置
+###### 5.Tomcat在Eclipse中的配置
 
 (1)啟動Eclipse 接著選擇Preferences 命令，在彈出的對話框中選擇Server - Runtime Environments ,如下圖：
 ![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/009.png)
