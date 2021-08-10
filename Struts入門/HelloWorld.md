@@ -62,3 +62,5 @@ Web 服務器包括Tomcat,Resin,WebSphere,JRun,WebLogic等，本範例採用的�
 (3)選擇Apache Tomcat v8.5服務器版本，單擊Next 按鈕，進入下圖所示窗口。
 ![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/012.png)
 單擊Browse按鈕，選擇Tomcat所在的目錄位置，點擊Finish按鈕即可完成Tomcat配置。
+
+## 6.創建 Web 應用
