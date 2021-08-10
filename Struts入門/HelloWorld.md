@@ -55,3 +55,10 @@ Web 服務器包括Tomcat,Resin,WebSphere,JRun,WebLogic等，本範例採用的�
 (1)啟動Eclipse 接著選擇Preferences 命令，在彈出的對話框中選擇Server - Runtime Environments ,如下圖：
 ![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/009.png)
 ![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/010.png)
+
+
+(2)單擊Add按鈕後，彈出如下圖所示的New Server Runtime Environment窗口，在此可以配置各種版本的Web服務器。
+![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/011.png)
+
+(3)選擇Apache Tomcat v8.5服務器版本，單擊Next 按鈕，進入下圖所示窗口。
+![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/012.png)
