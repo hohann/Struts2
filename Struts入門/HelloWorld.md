@@ -94,4 +94,4 @@ Web 服務器包括Tomcat,Resin,WebSphere,JRun,WebLogic等，本範例採用的�
 ![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/024.png)
 ![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/025.png)
 
-# 查看Tomcat能否運作
+# 讓Tomcat服務器簡單輸出Hello World
