@@ -4,7 +4,7 @@
 
 首先安裝並配置JDK,至官網下載（本範例是採用JDK 8 +MAC ）：   
 https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
-![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/Mac%20JDK.png)
+![Image](https://github.com/hohann/Struts2/blob/main/IMAGE/IMAGE_01/Mac%20JDK.png)
 
 
 
@@ -12,7 +12,7 @@ https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
 
 Web 服務器包括Tomcat,Resin,WebSphere,JRun,WebLogic等，本範例採用的是Tomcat 8。
 登入Apache 軟體基金會的官網 https://tomcat.apache.org/download-80.cgi ，下載Tomcat 8，在Binary Distributions 的Core中選擇zip即可。
-![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/Tomcat8.png)
+![Image](https://github.com/hohann/Struts2/blob/main/IMAGE/IMAGE_01/Tomcat8.png)
 
 將下載的apache-tomcat-8.5.69.zip 解壓後檔案名稱改為Tomcat，並將檔案移到磁盤的某個分區中，比如下圖所示的目錄結構：
 ![Image](https://github.com/hohann/Struts2/blob/main/Struts%E5%85%A5%E9%96%80/003.png)
