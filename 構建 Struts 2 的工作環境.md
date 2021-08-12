@@ -107,6 +107,6 @@ Web 服務器包括Tomcat,Resin,WebSphere,JRun,WebLogic等，本範例採用的�
 (3)最後在瀏覽器輸入http://localhost:8080/HelloWorld/Hello.jsp 變可看到HelloWorld 文字，如下圖所示。
 ![Image](https://github.com/hohann/Struts2/blob/main/IMAGE/IMAGE_01/033.png)
 
-至此 Struts 2 工作環境就設定完畢了 
+至此 Struts 2 的工作環境就設定完畢了 
 
 
