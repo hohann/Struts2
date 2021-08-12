@@ -17,7 +17,7 @@ Web 服務器包括Tomcat,Resin,WebSphere,JRun,WebLogic等，本範例採用的�
 將下載的apache-tomcat-8.5.69.zip 解壓後檔案名稱改為Tomcat，並將檔案移到磁盤的某個分區中，比如下圖所示的目錄結構：
 ![Image](https://github.com/hohann/Struts2/blob/main/IMAGE/IMAGE_01/003.png)
 
-###測試Tomcat
+### 測試Tomcat
 
 執行Tomcat根目錄中bin文件夾中的startup.bat來啟動Tomcat服務器，測試步驟如下：（以我的為例,檔案放在  /Users/weather/Library  路徑低下）
 1.  打開terminal 輸入 cd /Users/weather/Library/Tomcat/bin/    (根據自己的路徑改，cd到Tomcat的bin檔案)
