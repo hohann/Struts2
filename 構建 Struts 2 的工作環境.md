@@ -70,7 +70,7 @@ Web 服務器包括Tomcat,Resin,WebSphere,JRun,WebLogic等，本範例採用的�
 ![Image](https://github.com/hohann/Struts2/blob/main/IMAGE/IMAGE_01/014.png)
 (2)點擊Next按鈕,打開 New Dynamic Web Project 窗口,在Project name 輸入項目名稱,這裡為 HelloWorld。選擇Target runtime 區域中的服務器,如下圖所示。
 ![Image](https://github.com/hohann/Struts2/blob/main/IMAGE/IMAGE_01/015.png)
-(3)修改 java build path的路徑, 將其預設的路徑 Remove 掉(我們後面在進行設定)，如下圖所示。
+(3)修改 java build path的預設路徑, 因為我們多數的專案是在 src 和 WebContent 底下的，而新版的路徑卻不是在這底下，故將其預設的路徑 Remove 掉(我們後面在進行設定)，如下圖所示。
 ![Image](https://github.com/hohann/Struts2/blob/main/IMAGE/IMAGE_01/016.png)
 (4)將Content directory 改為 WebContent ，並選中Generate web.xml deployment descriptor ,如下圖所示。
 ![Image](https://github.com/hohann/Struts2/blob/main/IMAGE/IMAGE_01/017.png)
